@@ -1,16 +1,7 @@
-## Getting Started✨
+## For Feedback/Problem
 
-First, fork the repository. Then, go into your favorite terminal.
+DM me on Instagram [Here](https://www.instagram.com/dooo_dott/)
 
-    git clone git@github.com:YOUR_USERNAME/game.git
-    cd game
-    npm install
-    npm run serve
-
-## For Feedback💢
-
-DM Me on Instagram [Here](https://www.instagram.com/dooo_dott/)
-
-## License💎
+## License
 
 ©2022 All Right Reserved - Developed by Ikhwan Fadhilah
