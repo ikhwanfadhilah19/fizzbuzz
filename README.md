@@ -1,9 +1,6 @@
 ## Author✨
+
 Ikhwan Fadhilah
-
-## About💨
-
-Program Fizz Buzz C++
 
 ## For Feedback💢
 
